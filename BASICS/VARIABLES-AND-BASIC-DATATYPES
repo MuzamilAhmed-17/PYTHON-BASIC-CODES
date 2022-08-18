@@ -1,0 +1,22 @@
+#variables are the cylinder type material that store a value of different data types like:
+x = "Car"
+y = 17
+z = 17.3
+print(x,",",y,",",z)
+
+#There are 3 basic datatypes in Python
+#1. Integer(int)
+#2. Floating Point(float)
+#3. String(str)
+
+#String
+a = "Python"
+print(a)
+
+#Integer
+b = 33
+print(b)
+
+#Floating Point
+c = 10.5
+print(c)
