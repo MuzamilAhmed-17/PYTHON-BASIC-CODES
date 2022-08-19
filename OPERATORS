@@ -1,0 +1,19 @@
+#There are many operators in programming and in Python too.
+#but basic types are 2
+#1. Artimatic, 2. Assignment
+
+print("Artimatic Operators")
+#Artimatic (+, -, *, /, %, **)
+x = 20
+y = 10
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x % y)
+print(x ** y)
+
+print("Assigment Operator")
+#Assignment (basic assignment operator is = )
+a = 20 # 20 value is assigned to the variable a or a is initialized with 20
+print(a)
