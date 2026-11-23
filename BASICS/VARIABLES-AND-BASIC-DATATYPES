@@ -1,22 +1,28 @@
 #variables are the cylinder type material that store a value of different data types like:
-x = "Car"
-y = 17
-z = 17.3
-print(x,",",y,",",z)
+l = "Car"
+m = 17
+n = 17.3
+o = True
+print(l,",",m,",",n,",",o)
 
-#There are 3 basic datatypes in Python
+#There are 4 basic datatypes in Python
 #1. Integer(int)
 #2. Floating Point(float)
 #3. String(str)
+#4. Boolean(bool)
 
-#String
+#String -> Text
 a = "Python"
 print(a)
 
-#Integer
+#Integer -> Whole Numbers
 b = 33
 print(b)
 
-#Floating Point
+#Floating Point -> Decimal Numbers
 c = 10.5
 print(c)
+
+#Boolean -> True/False
+d = False
+print(d)
