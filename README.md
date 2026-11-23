@@ -1,4 +1,5 @@
-PYTHON-BASIC-CODES(Python codes for beginners.....)/
+
+PYTHON-BASIC-CODES/
 │
 ├── README.md
 │
