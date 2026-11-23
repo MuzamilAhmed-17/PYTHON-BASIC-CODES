@@ -1,8 +1,11 @@
-#There are many operators in programming and in Python too.
-#but basic types are 2
-#1. Artimatic, 2. Assignment
+# Python has different types of operators.
+# Basic operator categories include:
+# 1. Arithmetic Operators
+# 2. Assignment Operators
+# 3. Comparison Operators
+# 4. Logical Operators
 
-print("Artimatic Operators")
+print("Arithmetic Operators")
 #Artimatic (+, -, *, /, %, **)
 x = 20
 y = 10
@@ -13,7 +16,31 @@ print(x / y)
 print(x % y)
 print(x ** y)
 
-print("Assigment Operator")
+print("Assignment Operator")
 #Assignment (basic assignment operator is = )
+
 a = 20 # 20 value is assigned to the variable a or a is initialized with 20
 print(a)
+
+print("Comparison Operators")
+#Comparison operators are used to compare two values and return a Boolean result (True or False).
+
+x = 20
+y = 10
+
+print(x == y)  # Equal to
+print(x != y)  # Not equal to
+print(x > y)   # Greater than
+print(x < y)   # Less than
+print(x >= y)  # Greater than or equal to
+print(x <= y)  # Less than or equal to
+
+print("Logical Operators")
+#Logical operators are used to combine or reverse conditional expressions and return a Boolean result.
+
+x = 20
+y = 10
+
+print(x > 15 and y < 15)
+print(x > 25 or y < 15)
+print(not(x > 15))
