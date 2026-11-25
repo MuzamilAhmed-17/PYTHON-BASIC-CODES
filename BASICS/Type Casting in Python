@@ -1,0 +1,23 @@
+# Program: Type Casting
+# Type casting is the process of converting a value from one data type to another.
+
+# Integer to Float
+num1 = 10
+converted_num1 = float(num1)
+
+print(converted_num1)
+print(type(converted_num1))
+
+# Float to Integer
+num2 = 15.8
+converted_num2 = int(num2)
+
+print(converted_num2)
+print(type(converted_num2))
+
+# Integer to String
+num3 = 25
+converted_num3 = str(num3)
+
+print(converted_num3)
+print(type(converted_num3))
